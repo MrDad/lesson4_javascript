@@ -4,22 +4,26 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 12, 2018  )
 
 ### Student Name:  
-(First and Last Name)
+(Anthony Haddad)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment goes over the basic javascript knowledge that we learned while in class.
+    It creates an expense calculator that takes in user inputed strings, converts them to
+    floats, and then performs some calculations.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://mrdad.github.io/lesson4_javascript/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Javascript operators come in multiple forms; assignment, arithmetic, comparison/relational,
+    string, and logical.)
+2. (Javascript has reserved words, these words cannot be used as variables as they are important
+    to the language.)
+3. (Javascript is a loosely typed language and variables do not need to specify which data type when
+    declared, instead they will depend on the value assigned.)
 
 
 
